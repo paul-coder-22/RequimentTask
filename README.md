@@ -15,4 +15,10 @@
         </ol>
         <a href="https://replit.com/@paul889/MultipleQuestions#index.js">Code Here</a>
     </li>
+    <li>
+        <ol>
+        <a href="https://ez1ob.csb.app/">EmojiPedia</a>
+        </ol>
+        <a href="https://codesandbox.io/s/emoji-interpreter-ez1ob?file=/src/App.js">Code Here</a>
+    </li>
 </ol>
